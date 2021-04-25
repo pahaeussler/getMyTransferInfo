@@ -1,0 +1,2 @@
+faker == 8.1.1
+rut-chile == 1.2.0
